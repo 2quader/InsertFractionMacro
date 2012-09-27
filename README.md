@@ -8,44 +8,44 @@ InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brüche i
 
 # Wie installiere ich InsertFractionMacro?
 
-* Sicherheitsabfragen immer mit "Ja" beantworten.
+* Sicherheitsabfragen immer mit `Ja` beantworten.
 
 ## Word < 2007
-* Klicke oben auf dieser Seite auf "Downloads" und lade die Datei "Fractions.doc" herunter.
+* Klicke oben auf dieser Seite auf `Downloads` und lade die Datei `fractions.doc` herunter.
 * Öffne die heruntergeladene Datei mit Word.
-* Klicke im Menü Extras -> Makro auf "Makros..."
-	* Du siehst das Makro "Fractions" in der Makroliste.
+* Klicke im Menü `Extras -> Makro` auf `Makros...`
+	* Du siehst das Makro `Fractions` in der Makroliste.
 
 ![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/1_2000-1.png)
 
-* Klicke auf den Button "Organisieren..."
-* Kopiere alle Makros aus "fractions" nach "Normal". Nutze dazu den Button "Kopieren >>".
+* Klicke auf den Button `Organisieren...`
+* Kopiere alle Makros aus `fractions` nach `Normal`. Nutze dazu den Button `Kopieren >>`.
 * Schließe alle geöffneten Dialogfenster und beende Word. Starte Word erneut (ohne eine Datei zu laden!).
-* Klicke im Menü Extras auf den Menüpunkt "Anpassen". Wähle die Registerkarte "Befehle" aus.
-* Klicke in der Liste "Kategorien" auf den Punkt "Makros".
-* Ziehe den Befehl "Normal.Fractions.Fractions" an eine beliebige Stelle in der Menüleiste (Drag & Drop).
+* Klicke im Menü `Extras` auf den Menüpunkt `Anpassen`. Wähle die Registerkarte `Befehle` aus.
+* Klicke in der Liste `Kategorien` auf den Punkt `Makros`.
+* Ziehe den Befehl `Normal.Fractions.Fractions` an eine beliebige Stelle in der Menüleiste (Drag & Drop).
 
 ![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/2_2000-2.png)
 
-* Mache einen Rechtsklick auf den neuen Eintrag in der Menüleiste. Im Feld "Name" kannst du dem Button einen schöneren Namen geben, bspw. "Bruch einfügen...".
+* Mache einen Rechtsklick auf den neuen Eintrag in der Menüleiste. Im Feld `Name` kannst du dem Button einen schöneren Namen geben, bspw. `Bruch einfügen...`.
 
 ## Word 2010 (2007?)
-* Klicke oben auf dieser Seite auf "Downloads" und lade die Datei "Fractions.doc" herunter.
+* Klicke oben auf dieser Seite auf `Downloads` und lade die Datei `fractions.doc` herunter.
 * Öffne die heruntergeladene Datei mit Word.
-* Wechsle auf die Registerkarte "Ansicht" und klicke auf "Makros".
-	* Du siehst das Makro "Fractions" in der Makroliste.
+* Wechsle auf die Registerkarte `Ansicht` und klicke auf `Makros`.
+	* Du siehst das Makro `Fractions` in der Makroliste.
 
 ![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/3_2010-1.png)
 
-* Klicke auf den Button "Organisieren..."
-* Kopiere alle Makros aus "fractions" nach "Normal". Nutze dazu den Button "Kopieren ->".
+* Klicke auf den Button `Organisieren...`
+* Kopiere alle Makros aus `fractions` nach `Normal`. Nutze dazu den Button `Kopieren ->`.
 * Schließe alle geöffneten Dialogfenster und beende Word. Starte Word erneut (ohne eine Datei zu laden!).
-* Klicke auf die Registerkarte "Datei".
-* Klicke auf "Optionen".
-* Klicke links auf "Menüband anpassen".
-* Im Dropdown-Menü "Befehle auswählen" wähle "Makros" aus.
+* Klicke auf die Registerkarte `Datei`.
+* Klicke auf `Optionen`.
+* Klicke links auf `Menüband anpassen`.
+* Im Dropdown-Menü `Befehle auswählen` wähle `Makros` aus.
 * Erstelle eine nue Gruppe auf der Registerkarte, auf der der neue Button erscheinen soll.
-* Füge den Befehl "Normal.Fractions.Fractions" zu dieser Gruppe hinzu. Du kannst ihn jetzt noch umbenennen (Button rechts unten).
+* Füge den Befehl `Normal.Fractions.Fractions` zu dieser Gruppe hinzu. Du kannst ihn jetzt noch umbenennen (Button rechts unten).
 ![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/4_2010-2.png)
 
 # Wie darf ich die Software nutzen, verändern, weitergeben, ...?
