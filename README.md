@@ -11,7 +11,7 @@ InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brüche 
 * Sicherheitsabfragen immer mit `Ja` beantworten.
 
 ## Word < 2007
-* Lade die Datei `fractions.doc` [hier](http://githubdl.bitendlager.tk/InsertFractionMacro/fractions.doc) herunter.
+* Lade die Datei `fractions.doc` [hier](http://githubdl.bitendlager.tk/InsertFractionMacro/InsertFractionsMacro.zip) herunter.
 * Öffne die heruntergeladene Datei mit Word.
 * Klicke im Menü `Extras -> Makro` auf `Makros...`
 	* Du siehst das Makro `Fractions` in der Makroliste.
@@ -30,7 +30,7 @@ InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brüche 
 * Mache einen Rechtsklick auf den neuen Eintrag in der Menüleiste. Im Feld `Name` kannst du dem Button einen schöneren Namen geben, bspw. `Bruch einfügen...`.
 
 ## Word 2010 (2007?)
-* Lade die Datei `fractions.doc` [hier](http://githubdl.bitendlager.tk/InsertFractionMacro/fractions.doc) herunter.
+* Lade die Datei `fractions.doc` [hier](http://githubdl.bitendlager.tk/InsertFractionMacro/InsertFractionsMacro.zip) herunter.
 * Öffne die heruntergeladene Datei mit Word.
 * Wechsle auf die Registerkarte `Ansicht` und klicke auf `Makros`.
 	* Du siehst das Makro `Fractions` in der Makroliste.
