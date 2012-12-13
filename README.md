@@ -4,19 +4,19 @@ InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brüche 
 
 # Screenshot
 
-![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/0_form.png)
+![Screenshot](http://embed.githubdl.bitendlager.tk/InsertFractionMacro/0_form.png)
 
 # Wie installiere ich InsertFractionMacro?
 
 * Sicherheitsabfragen immer mit `Ja` beantworten.
 
 ## Word < 2007
-* Klicke oben auf dieser Seite auf `Downloads` und lade die Datei `fractions.doc` herunter.
+* Lade die Datei `fractions.doc` [hier](http://githubdl.bitendlager.tk/InsertFractionMacro/fractions.doc) herunter.
 * Öffne die heruntergeladene Datei mit Word.
 * Klicke im Menü `Extras -> Makro` auf `Makros...`
 	* Du siehst das Makro `Fractions` in der Makroliste.
 
-![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/1_2000-1.png)
+![Screenshot](http://embed.githubdl.bitendlager.tk/InsertFractionMacro/1_2000-1.png)
 
 * Klicke auf den Button `Organisieren...`
 * Kopiere alle Makros aus `fractions` nach `Normal`. Nutze dazu den Button `Kopieren >>`.
@@ -25,7 +25,7 @@ InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brüche 
 * Klicke in der Liste `Kategorien` auf den Punkt `Makros`.
 * Ziehe den Befehl `Normal.Fractions.Fractions` an eine beliebige Stelle in der Menüleiste (Drag & Drop).
 
-![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/2_2000-2.png)
+![Screenshot](http://embed.githubdl.bitendlager.tk/InsertFractionMacro/2_2000-2.png)
 
 * Mache einen Rechtsklick auf den neuen Eintrag in der Menüleiste. Im Feld `Name` kannst du dem Button einen schöneren Namen geben, bspw. `Bruch einfügen...`.
 
@@ -35,7 +35,7 @@ InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brüche 
 * Wechsle auf die Registerkarte `Ansicht` und klicke auf `Makros`.
 	* Du siehst das Makro `Fractions` in der Makroliste.
 
-![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/3_2010-1.png)
+![Screenshot](http://embed.githubdl.bitendlager.tk/InsertFractionMacro/3_2010-1.png)
 
 * Klicke auf den Button `Organisieren...`
 * Kopiere alle Makros aus `fractions` nach `Normal`. Nutze dazu den Button `Kopieren ->`.
@@ -46,7 +46,7 @@ InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brüche 
 * Im Dropdown-Menü `Befehle auswählen` wähle `Makros` aus.
 * Erstelle eine nue Gruppe auf der Registerkarte, auf der der neue Button erscheinen soll.
 * Füge den Befehl `Normal.Fractions.Fractions` zu dieser Gruppe hinzu. Du kannst ihn jetzt noch umbenennen (Button rechts unten).
-![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/4_2010-2.png)
+![Screenshot](http://embed.githubdl.bitendlager.tk/InsertFractionMacro/4_2010-2.png)
 
 # Wie darf ich die Software nutzen, verändern, weitergeben, ...?
 
