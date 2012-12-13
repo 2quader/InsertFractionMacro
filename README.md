@@ -1,6 +1,6 @@
 # InsertFractionMacro - Was ist das?
 
-InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brüche in ein Dokument einzufügen.
+InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brï¿½che in ein Dokument einzufï¿½gen.
 
 # Screenshot
 
@@ -12,26 +12,26 @@ InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brüche i
 
 ## Word < 2007
 * Klicke oben auf dieser Seite auf `Downloads` und lade die Datei `fractions.doc` herunter.
-* Öffne die heruntergeladene Datei mit Word.
-* Klicke im Menü `Extras -> Makro` auf `Makros...`
+* ï¿½ffne die heruntergeladene Datei mit Word.
+* Klicke im Menï¿½ `Extras -> Makro` auf `Makros...`
 	* Du siehst das Makro `Fractions` in der Makroliste.
 
 ![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/1_2000-1.png)
 
 * Klicke auf den Button `Organisieren...`
 * Kopiere alle Makros aus `fractions` nach `Normal`. Nutze dazu den Button `Kopieren >>`.
-* Schließe alle geöffneten Dialogfenster und beende Word. Starte Word erneut (ohne eine Datei zu laden!).
-* Klicke im Menü `Extras` auf den Menüpunkt `Anpassen`. Wähle die Registerkarte `Befehle` aus.
+* Schlieï¿½e alle geï¿½ffneten Dialogfenster und beende Word. Starte Word erneut (ohne eine Datei zu laden!).
+* Klicke im Menï¿½ `Extras` auf den Menï¿½punkt `Anpassen`. Wï¿½hle die Registerkarte `Befehle` aus.
 * Klicke in der Liste `Kategorien` auf den Punkt `Makros`.
-* Ziehe den Befehl `Normal.Fractions.Fractions` an eine beliebige Stelle in der Menüleiste (Drag & Drop).
+* Ziehe den Befehl `Normal.Fractions.Fractions` an eine beliebige Stelle in der Menï¿½leiste (Drag & Drop).
 
 ![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/2_2000-2.png)
 
-* Mache einen Rechtsklick auf den neuen Eintrag in der Menüleiste. Im Feld `Name` kannst du dem Button einen schöneren Namen geben, bspw. `Bruch einfügen...`.
+* Mache einen Rechtsklick auf den neuen Eintrag in der Menï¿½leiste. Im Feld `Name` kannst du dem Button einen schï¿½neren Namen geben, bspw. `Bruch einfï¿½gen...`.
 
 ## Word 2010 (2007?)
 * Klicke oben auf dieser Seite auf `Downloads` und lade die Datei `fractions.doc` herunter.
-* Öffne die heruntergeladene Datei mit Word.
+* ï¿½ffne die heruntergeladene Datei mit Word.
 * Wechsle auf die Registerkarte `Ansicht` und klicke auf `Makros`.
 	* Du siehst das Makro `Fractions` in der Makroliste.
 
@@ -39,18 +39,15 @@ InsertFractionMacro ist ein kleines Word-Makro, das es dir erleichtert, Brüche i
 
 * Klicke auf den Button `Organisieren...`
 * Kopiere alle Makros aus `fractions` nach `Normal`. Nutze dazu den Button `Kopieren ->`.
-* Schließe alle geöffneten Dialogfenster und beende Word. Starte Word erneut (ohne eine Datei zu laden!).
+* Schlieï¿½e alle geï¿½ffneten Dialogfenster und beende Word. Starte Word erneut (ohne eine Datei zu laden!).
 * Klicke auf die Registerkarte `Datei`.
 * Klicke auf `Optionen`.
-* Klicke links auf `Menüband anpassen`.
-* Im Dropdown-Menü `Befehle auswählen` wähle `Makros` aus.
+* Klicke links auf `Menï¿½band anpassen`.
+* Im Dropdown-Menï¿½ `Befehle auswï¿½hlen` wï¿½hle `Makros` aus.
 * Erstelle eine nue Gruppe auf der Registerkarte, auf der der neue Button erscheinen soll.
-* Füge den Befehl `Normal.Fractions.Fractions` zu dieser Gruppe hinzu. Du kannst ihn jetzt noch umbenennen (Button rechts unten).
+* Fï¿½ge den Befehl `Normal.Fractions.Fractions` zu dieser Gruppe hinzu. Du kannst ihn jetzt noch umbenennen (Button rechts unten).
 ![Screenshot](https://github.com/downloads/2quader/InsertFractionMacro/4_2010-2.png)
 
-# Wie darf ich die Software nutzen, verändern, weitergeben, ...?
+# Wie darf ich die Software nutzen, verï¿½ndern, weitergeben, ...?
 
-Du bekommst diesen Code kostenlos und darfst mit ihm machen was du willst, du bekommst jedoch keine Garantie auf Sicherheit, Fuktionalität oder sonst irgendwas.
-Sollte mein Code die Welt untergehen lassen oder sonstige Schäden (auch im kleineren Maße) anrichten, sag' nicht, ich sei schuld, denn ich habe dich gewarnt.
-
-Es ist ratsam, diese oder eine entsprechend angepasste README-Datei mit dem Code weiterzugeben, aber ich werde dich nicht dazu zwingen.
+Kurzform: InsertFractionMacro steht unter der MIT-Lizenz. Weitere Informationen in LICENSE.txt.
